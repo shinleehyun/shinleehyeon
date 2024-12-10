@@ -15,7 +15,7 @@
 </div>
 <hr/>
  
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center">⚒️ Technologies ⚒️</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,vite" /><br>
@@ -25,7 +25,7 @@
 <br/>
 <hr/>
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
+  <h2>🍀 My Contributions 🍀</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/shinleehyeon/shinleehyeon/output/github-contribution-grid-snake.svg" />
   
