@@ -30,9 +30,7 @@ jobs:
         with:
           github_user_name: shinleehyeon
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-                        
+            dist/github-snake-dark.svg?color_snake=#FFE16F&color_dots=#534340,#234F1A,#9FC93C,#C5D8A4,#F4FCD9,#F05650
       # push the content of <build_dir> to a branch
       # the content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file> , or as github page
       - name: push github-contribution-grid-snake.svg to the output branch
