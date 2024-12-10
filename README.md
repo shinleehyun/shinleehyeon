@@ -1,9 +1,17 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+shinleehyeon;" />
 </h1>
-<h3 align="center">I'm studying at Sunrin Internet High School in South Korea 🇰🇷
+<h3 align="center">A passionate software developer from South Korea 🇰🇷
 </h3>
+<div align="center">
+ 
+ 📚 I'm studying at Sunrin Internet High School
 <br/>
+ 💬 'm front-end developer currently studying
+<br/>
+<hr/>
+
+<h2 align="center">🚀 Fallow Me 🚀</h2>
  
 <div align="center"> 
   <a href="shinlee7878@gmail.com">
