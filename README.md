@@ -11,18 +11,7 @@
 <br/>
  💬 'm front-end developer currently studying
 <br/>
-<hr/>
 
-<h2 align="center">🚀 Fallow Me 🚀</h2>
- 
-<div align="center"> 
-  <a href="shinlee7878@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://www.instagram.com/hyun._.s08/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" />
-  </a>
-</div>
 <hr/>
  
 <h2 align="center">⚒️ Technologies ⚒️</h2>
@@ -52,3 +41,15 @@
 </div>
 <br/><br/>
 <br/>
+<hr/>
+
+<h2 align="center">🚀 Fallow Me 🚀</h2>
+ 
+<div align="center"> 
+  <a href="shinlee7878@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.instagram.com/hyun._.s08/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" />
+  </a>
+</div>
