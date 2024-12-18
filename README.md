@@ -28,19 +28,7 @@
   <br>
   <img alt="snake eating my contributions" src="https://github.com/shinleehyeon/shinleehyeon/blob/output/github-snake-dark.svg" />
   
-  <br/><br/><br/>
 </div>
-<hr/>
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align="center">
-  <div style="display: flex; justify-content: center; gap: 20px;">
-    <img width=390 src="https://github-readme-streak-stats.herokuapp.com?user=shinleehyeon&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-    <img width=390 src="https://github-readme-stats.vercel.app/api/top-langs/?username=shinleehyeon&layout=compact&theme=dracula" alt="top langs" />
-  </div>
-</div>
-<br/><br/>
-<br/>
 <hr/>
 
 <h2 align="center">🚀 Fallow Me 🚀</h2>
